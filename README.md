@@ -11,11 +11,11 @@ This is a practice activity; not for credit. Feel free to expand as inspired.
 
 ## Coding Resources
 
-- **HTML Reference:** [MND HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML "target='_blank'")
-- **HTML Elements:** [MND HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element):target="_blank"
-  - [`<a>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a):target="_blank"
-  - [`<nav>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav):target="_blank"
-  - [`<menu>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu):target="_blank"
+- **HTML Reference:** [MND HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- **HTML Elements:** [MND HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+  - [`<a>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+  - [`<nav>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+  - [`<menu>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu)
   
 ## VS Code and Development Server
 
