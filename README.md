@@ -1,13 +1,15 @@
-# INFO 1300
+# INFO 1300 - Activity - Links and Navigation Practice
 
-In this activity we will practice creating navigation between multiple web pages.
+In this activity we will practice adding links and structuring links into navigation on web pages.
 
 This is a practice activity; not for credit. Feel free to expand as inspired.
 
 ## Instructions 
 
-- use the `<a>` element to **link** the `index.html` and `popular.html` pages to each other
-- structure these links into **navigation** by using the `<nav>` and `<menu>` elements
+- note the `images` sub-folder
+- add the `images/zoo-logo.jpg` logo image to the top of each `html` page.  
+- setup this logo image to link (`<a>`) to the `index.html` page; structure that image and link as `<header>`
+- add the `images/downtown-ithaca.jpg` image to the `About the Zoo` section of the `index.html` page
 
 ## Coding Resources
 
