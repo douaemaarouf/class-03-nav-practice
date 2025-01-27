@@ -2,6 +2,8 @@
 
 In this activity we will practice creating navigation between multiple web pages.
 
+This is a practice activity; not for credit. Feel free to expand as inspired.
+
 ## Instructions 
 
 - use the `<a>` element to **link** the `index.html` and `popular.html` pages to each other
