@@ -17,8 +17,6 @@ This is a practice activity; not for credit. Feel free to expand as inspired.
   - [`<nav>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
   - [`<menu>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu)
   
-
-
 ## VS Code and Development Server
 
 - **To Code**: Open this repository as a Codespace on GitHub.
